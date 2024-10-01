@@ -1,0 +1,1 @@
+"I have gained foundational knowledge in AI, working with key concepts such as Python programming, data structures like dictionaries and lists, as well as libraries like Pandas for data manipulation and analysis. I have applied these skills across various basic units, deepening my understanding of AI fundamentals."
